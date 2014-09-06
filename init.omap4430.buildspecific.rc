@@ -1,0 +1,3 @@
+service raft /system/bin/raft
+    class main
+    oneshot
